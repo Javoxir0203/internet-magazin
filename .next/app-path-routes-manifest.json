@@ -1,0 +1,8 @@
+{
+  "/page": "/",
+  "/contacts/page": "/contacts",
+  "/products/page": "/products",
+  "/shopping-cart/page": "/shopping-cart",
+  "/(.)product/[id]/page": "/(.)product/[id]",
+  "/product/[id]/page": "/product/[id]"
+}
